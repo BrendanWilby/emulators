@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\brend\documents\programming\projects\games\emulators\chip8\chip8.h(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\brend\documents\programming\projects\games\emulators\chip8\main.c(169): warning C4026: function declared with formal parameter list
+c:\users\brend\documents\programming\projects\games\emulators\chip8\main.c(194): warning C4018: '<': signed/unsigned mismatch
+  CHIP8.vcxproj -> C:\Users\brend\Documents\Programming\Projects\Games\Emulators\CHIP8\Debug\CHIP8.exe

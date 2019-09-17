@@ -1,0 +1,5 @@
+# VS project settings files
+CHIP8.sln
+CHIP8.vcxproj
+CHIP8.vcxproj.filters
+CHIP8.vcxproj.user
